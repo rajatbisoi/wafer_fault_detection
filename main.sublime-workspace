@@ -1,0 +1,272 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+			"conda sad",
+			"conda"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/ratz_work/waferFaultDetection/code/WaferFaultDetection_new/prediction_Validation_Insertion.py",
+		"/D/ratz_work/waferFaultDetection/code/WaferFaultDetection_new/DataTypeValidation_Insertion_Prediction/DataTypeValidationPrediction.py",
+		"/D/ratz_work/waferFaultDetection/code/WaferFaultDetection_new/best_model_finder/tuner.py",
+		"/D/ratz_work/forestCover/code/forest_cover_Classification/main.py",
+		"/D/ratz_work/forestCover/code/forest_cover_Classification/data/forest_cover_28011991_120211.csv",
+		"/E/DOWNLOADS/vocab.enron.txt",
+		"/C/Program Files/WindowsApps/Microsoft.Office.OneNote_16001.11126.20076.0_x64__8wekyb3d8bbwe/notificationsui/fabric.min.css",
+		"/D/ratz_work/waferFaultDetection/code/WaferFaultDetection_new/flask_monitoringdashboard.db",
+		"/C/Program Files/WindowsApps/Microsoft.Office.OneNote_16001.11126.20076.0_x64__8wekyb3d8bbwe/accessibilitychecker/main.js",
+		"/C/Users/rojarajat/AppData/Local/Defendemus_Limited_Liabil/VpnShield.exe_Url_drcbilbefsg2pc5bbyslg0xoxjuix30y/8.6.2.0/user.config",
+		"/C/Users/rojarajat/Desktop/gtest.py",
+		"/D/ratz_work/forestCover/code/forest_cover_Classification/data_ingestion/data_loader.py",
+		"/C/Users/rojarajat/tender 1234/Downloads/heart-disease (1).names",
+		"/C/Users/rojarajat/LinearRegressionTillCloud/app.yaml",
+		"/C/Users/rojarajat/LinearRegressionApp_GCP/Procfile",
+		"/C/Users/rojarajat/Wafer_15010_130532.csv",
+		"/C/Users/rojarajat/tender 1234/Downloads/new_user_credentials.csv",
+		"/C/Users/rojarajat/.aws/credentials",
+		"/C/Users/rojarajat/.aws/config",
+		"/D/ratz  work/waferFaultDetection/code/WaferFaultDetection_new/Training_Batch_Files/wafer_07012020_041011.csv",
+		"/D/ratz  work/waferFaultDetection/code/WaferFaultDetection_new/best_model_finder/__pycache__/tuner.cpython-37.pyc",
+		"/G/setup-1.bin",
+		"/C/Users/rojarajat/Desktop/address sample file.json",
+		"/D/ratz  work/waferFaultDetection/code/WaferFaultDetection_new/Training_Database/Training.db",
+		"/C/Users/rojarajat/cleveland.data",
+		"/C/Users/rojarajat/tender 1234/Downloads/nrel-crest-fuel-cell.xlsx",
+		"/C/Users/rojarajat/tender 1234/Downloads/heart-disease.names",
+		"/D/ratz  work/waferFaultDetection/code/WaferFaultDetection_new/best_model_finder/tuner.py",
+		"/D/ratz  work/gcp cloud apps/LinearRegressionApp_GCP/main.py",
+		"/C/Users/rojarajat/tender 1234/Downloads/hrtclv.csv",
+		"/D/ratz  work/waferFaultDetection/code/WaferFaultDetection_new/schema_prediction.json",
+		"/D/ratz  work/waferFaultDetection/code/WaferFaultDetection_new/schema_training.json",
+		"/C/Users/rojarajat/tender 1234/Downloads/Resume-Krish (1).doc",
+		"/C/Users/rojarajat/gcp cloud apps/LinearRegressionApp_GCP/Procfile",
+		"/C/Users/rojarajat/gcp cloud apps/LinearRegressionApp_GCP/app.yaml",
+		"/C/Users/rojarajat/gcp cloud apps/LinearRegressionApp_GCP/templates/results.html",
+		"/C/Users/rojarajat/gcp cloud apps/LinearRegressionApp_GCP/templates/index.html",
+		"/C/Users/rojarajat/gcp cloud apps/LinearRegressionApp_GCP/templates/base.html",
+		"/C/Users/rojarajat/LinearRegressionApp/app.py",
+		"/D/ratz  work/gcp cloud apps/LinearRegressionApp_GCP/app.py",
+		"/D/ratz  work/gcp cloud apps/LinearRegressionApp_GCP/Procfile",
+		"/D/ratz  work/gcp cloud apps/LinearRegressionApp_GCP/templates/index.html",
+		"/C/Users/rojarajat/LinearRegressionApp_GCP/finalized_model.pickle",
+		"/D/ratz  work/gcp cloud apps/LinearRegressionApp_GCP/templates/results.html",
+		"/C/Users/rojarajat/LinearRegressionApp_GCP/templates/index.html",
+		"/D/ratz  work/gcp cloud apps/LinearRegressionApp_GCP/app.yaml",
+		"/D/ratz  work/gcp cloud apps/LinearRegressionApp_GCP/templates/base.html",
+		"/C/Users/rojarajat/tender 1234/Downloads/UCI_heart_diease_classifications .py",
+		"/C/Users/rojarajat/rand_clf.pkl",
+		"/C/Users/rojarajat/LinearRegressionApp_GCP/templates/base.html",
+		"/C/Users/rojarajat/LinearRegressionApp_GCP/main.py",
+		"/D/ratz  work/gcp cloud apps/LinearRegressionApp_GCP/static/css/style.css",
+		"/D/ratz  work/gcp cloud apps/LinearRegressionApp_GCP/static/css/main.css",
+		"/C/Users/rojarajat/switzerland.data",
+		"/C/Users/rojarajat/tender 1234/Downloads/processed.hungarian.data",
+		"/C/Users/rojarajat/tender 1234/Downloads/cleveland_full.data",
+		"/C/Users/rojarajat/tender 1234/Downloads/cleveland.data",
+		"/C/Users/rojarajat/tender 1234/Downloads/power_HEMS.slx",
+		"/C/Users/rojarajat/tender 1234/Downloads/datafile.xml",
+		"/D/py3book30/py30eg/Abstract.py",
+		"/C/Users/rojarajat/LinearRegressionApp_assure/.ebextensions/python.config",
+		"/C/Users/rojarajat/LinearRegressionApp_GCP/app.py",
+		"/C/Users/rojarajat/tender 1234/Downloads/processed.switzerland.data",
+		"/C/Users/rojarajat/tender 1234/Downloads/processed.cleveland.data",
+		"/C/Users/rojarajat/LinearRegressionApp_assure/.ebignore",
+		"/C/Users/rojarajat/Desktop/webscrappper_text-master/webscrappper_text-master/imageScrapper-master/ImageScrapper/Procfile",
+		"/C/Users/rojarajat/Desktop/webscrappper_text-master/webscrappper_text-master/reviewScrapper/Procfile",
+		"/C/Users/rojarajat/lrPP/Proc",
+		"/C/Users/rojarajat/.ssh/known_hosts",
+		"/C/Users/rojarajat/.ssh/id_rsa",
+		"/C/Users/rojarajat/ImageScrapper/chromedriver.exe",
+		"/C/Users/rojarajat/tender 1234/Downloads/app.py",
+		"/C/Users/rojarajat/Desktop/webscrappper_text-master/webscrappper_text-master/reviewScrapper/app.py",
+		"/C/Users/rojarajat/Desktop/webscrappper_text-master/webscrappper_text-master/imageScrapper-master/ImageScrapper/app.py",
+		"/C/Users/rojarajat/tender 1234/Downloads/WEOAprl2017.xml",
+		"/C/Users/rojarajat/tender 1234/Downloads/WEOAprl2017.xsd",
+		"/C/Users/rojarajat/tender 1234/Downloads/plants.data",
+		"/C/Users/rojarajat/tender 1234/Downloads/WEOOct2009all.xls",
+		"/C/Users/rojarajat/tender 1234/Downloads/00408822.tif",
+		"/C/Users/rojarajat/Documents/R/win-library/3.6/BH/include/boost/compute/interop/opengl.hpp",
+		"/D/py3book30/py30eg/dvds.xml",
+		"/D/py3book30/py30eg/uniquewords_ans.py",
+		"/D/py3book30/py30eg/uniquewords2.py",
+		"/D/py3book30/py30eg/external_sites_ans.py",
+		"/D/py3book30/py30eg/external_sites.py",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/D/2020-02-12-rpd-x86-buster.iso",
+		"/G/README.diskdefines",
+		"/C/Program Files (x86)/Letasoft Sound Booster/Sbapo.dll",
+		"/C/Users/rojarajat/Desktop/Electronic Measurements and Instrumentation/CHAPTER_1.ipynb"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
